@@ -1,0 +1,8 @@
+1. Apa bedanya variabel user dengan variable system ?
+variabel user adalah jenis variabel yang dibuat sendiri oleh programmer.
+Variabel Sistem PHP, adalah beberapa variabel yang telah didefenisikan secara sistem oleh PHP, dan kita sebaiknya tidak membuat variabel dengan nama yang sama.
+
+2. Apa persamaan variabel system dengan variabel konstan ?
+
+Aturan penamaan konstanta sama seperti variabel, yaitu untuk karakter pertama hanya boleh menggunakan huruf dan underscore (_), dan untuk huruf kedua dan seterusnya, boleh menggunakan huruf, angka dan underscore.
+Sehingga sebuah konstanta juga tidak boleh diawal angka atau mengandung karakter khusus sepert #,*, atau &.
